@@ -1,0 +1,24 @@
+{
+  "name": "apimetiers",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Voici un modèle de fichier `README.md` très détaillé pour expliquer le projet et son fonctionnement :",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Williams-12/metierApi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Williams-12/metierApi/issues"
+  },
+  "homepage": "https://github.com/Williams-12/metierApi#readme"
+}
